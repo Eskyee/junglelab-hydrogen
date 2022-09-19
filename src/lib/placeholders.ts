@@ -5,7 +5,7 @@ const PLACEHOLDERS = {
     {
       heading: {value: 'All Mountain All Season'},
       byline: {
-        value: 'The All New Hydrogen Snowboard Exclusively From Shopify',
+        value: 'The All New JUNGLELABᵀᴹ Snowboard Exclusively From Shopify',
       },
       cta: {value: 'Shop Now →'},
       handle: 'freestyle',
